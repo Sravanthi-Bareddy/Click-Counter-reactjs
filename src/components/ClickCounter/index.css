@@ -1,0 +1,28 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  font-family: 'Roboto';
+  font-size: 32px;
+  font-weight: 700;
+  margin: 4px;
+}
+.description {
+  font-family: 'Roboto';
+  font-size: 24px;
+  font-weight: none;
+  margin: 2px;
+}
+.click-me-btn {
+  background-color: #007bff;
+  color: #f1f5f8;
+  height: 40px;
+  width: 80px;
+  font-family: 'Roboto';
+}
+.text {
+  color: #c20a72;
+}
